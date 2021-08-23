@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shareablecode.io/static/css/main.76327db8.chunk.css",
+    "main.js": "/shareablecode.io/static/js/main.b94fafc4.chunk.js",
+    "main.js.map": "/shareablecode.io/static/js/main.b94fafc4.chunk.js.map",
+    "runtime-main.js": "/shareablecode.io/static/js/runtime-main.85bbe955.js",
+    "runtime-main.js.map": "/shareablecode.io/static/js/runtime-main.85bbe955.js.map",
+    "static/css/2.3848a56f.chunk.css": "/shareablecode.io/static/css/2.3848a56f.chunk.css",
+    "static/js/2.0f36a9fc.chunk.js": "/shareablecode.io/static/js/2.0f36a9fc.chunk.js",
+    "static/js/2.0f36a9fc.chunk.js.map": "/shareablecode.io/static/js/2.0f36a9fc.chunk.js.map",
+    "index.html": "/shareablecode.io/index.html",
+    "static/css/2.3848a56f.chunk.css.map": "/shareablecode.io/static/css/2.3848a56f.chunk.css.map",
+    "static/css/main.76327db8.chunk.css.map": "/shareablecode.io/static/css/main.76327db8.chunk.css.map",
+    "static/js/2.0f36a9fc.chunk.js.LICENSE.txt": "/shareablecode.io/static/js/2.0f36a9fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85bbe955.js",
+    "static/css/2.3848a56f.chunk.css",
+    "static/js/2.0f36a9fc.chunk.js",
+    "static/css/main.76327db8.chunk.css",
+    "static/js/main.b94fafc4.chunk.js"
+  ]
+}
