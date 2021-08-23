@@ -6,22 +6,6 @@ body {
   box-sizing: border-box;
 }
 
-.navbar{
-  height: 10vh;
-  display: flex;
-  font-size: 1.5rem;
-  color: #ffffcc;
-  align-items: center;
-  font-family: "Urbanist";
-  justify-content: space-evenly;
-  background: hsl(225, 6%, 25%);
-}
-
-.navbar a{
-  color: #b0b0ab;
-  text-decoration: none;
-}
-
 .top-pane {
   display: flex;
   background-color: hsl(225, 6%, 25%);
